@@ -14,7 +14,7 @@ function HeaderNav({ darkMode, setDarkMode }) {
           to={`infoJobs`}
           className="text-md md:text-xl xl:text-2xl font-light hover:text-primary hover:scale-110 transition ease-in-out sm:text-xs md:text-md"
         >
-          IT Jobs
+          IT Jobs!
         </Link>
 
         <Link
